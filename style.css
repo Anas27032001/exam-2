@@ -807,7 +807,7 @@ color: red;
 .empty1 {
 	height: 100%;
 	width: 0.2rem;
-	background: #6f87bf;
+	background: #98a4bf45;
 	position: absolute;
 	top: 0;
 	left: 4%;
@@ -816,7 +816,7 @@ color: red;
 .empty2 {
 	height: 100%;
 	width: 0.2rem;
-	background: #6f87bf;
+	background: #98a4bf45;
 	position: absolute;
 	top: 0;
 	left: 40%;
@@ -824,15 +824,16 @@ color: red;
 .empty3 {
 	height: 100%;
 	width: 0.2rem;
-	background: #6f87bf;
+	background: #98a4bf45;
 	position: absolute;
 	top: 0;
 	left: 69%;
+	z-index:999;
 }
 .empty4 {
 	height: 100%;
 	width: 0.2rem;
-	background: #6f87bf;
+	background: #98a4bf45;
 	position: absolute;
 	top: 0;
 	left: 96%;
